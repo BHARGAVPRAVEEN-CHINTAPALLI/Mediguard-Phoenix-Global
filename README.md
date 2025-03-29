@@ -11,22 +11,22 @@
 🚀 Benefits of MediGuard
 <ul> <li>✅ **Enhanced Communication** – Eliminates miscommunication between doctors, nurses, and patients.</li> <li>✅ **Accurate Medication Tracking** – Automates logging with timestamps to improve compliance.</li> <li>✅ **Patient Empowerment** – Encourages patients to actively manage their treatment schedule.</li> <li>✅ **Real-Time Updates** – Doctors and nurses receive instant notifications for better coordination.</li> </ul>
 <h2>⚙️ Workflow</h2>
-🔹 Doctor’s Actions
-1️⃣ Log in to the platform.
-2️⃣ Select and manage patient records.
-3️⃣ View and update patient prescriptions.
-4️⃣ Monitor medication logs updated by nurses.
+🔹 Doctor’s Actions</br>
+1️⃣ Log in to the platform.</br>
+2️⃣ Select and manage patient records.</br>
+3️⃣ View and update patient prescriptions.</br>
+4️⃣ Monitor medication logs updated by nurses.</br>
 
-🔹 Nurse’s Actions
-1️⃣ Log in to the system.
-2️⃣ Access the latest patient prescription details.
-3️⃣ Log each medication administration in real time.
-4️⃣ Ensure updates are available for doctor review.
+🔹 Nurse’s Actions</br>
+1️⃣ Log in to the system.</br>
+2️⃣ Access the latest patient prescription details.</br>
+3️⃣ Log each medication administration in real time.</br>
+4️⃣ Ensure updates are available for doctor review.</br>
 
-🔹 Patient’s Actions
-1️⃣ Log in to view prescriptions and schedules.
-2️⃣ Track personal medication intake history.
-3️⃣ Receive reminders for upcoming doses.
+🔹 Patient’s Actions</br>
+1️⃣ Log in to view prescriptions and schedules.</br>
+2️⃣ Track personal medication intake history.</br>
+3️⃣ Receive reminders for upcoming doses.</br>
 
 <h2>🛠️ Technology Stack</h2>
 <ul> <li>✅ **Frontend:** React.js for an intuitive and responsive interface.</li> <li>✅ **Backend:** Node.js with Express.js for secure and scalable API management.</li> <li>✅ **Database:** MongoDB for efficient patient data storage.</li> <li>✅ **Authentication:** JWT (JSON Web Tokens) for secure login and access control.</li> <li>✅ **Real-Time Updates:** WebSockets for instant communication between users.</li> </ul>
